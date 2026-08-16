@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: >-
+  If you use or adapt this repository, please cite both the repository and
+  the associated manuscript using the metadata below.
+title: "URO-FND Clustering Study Repository: 3D UMAP & HDBSCAN"
+type: software
+authors:
+  - family-names: Monteiro
+    given-names: Sara
+date-released: 2026-08-16
+license: CC-BY-4.0
+url: "https://github.com/UROFND-repo"
+abstract: >-
+  A self-contained research notebook for standardizing prespecified clinical
+  features, estimating a three-dimensional UMAP embedding, applying HDBSCAN,
+  visualizing density-based profiles, and exporting reproducible model outputs.
+keywords:
+  - functional neurological disorder
+  - UMAP
+  - HDBSCAN
+  - unsupervised learning
+  - clustering
+  - reproducible research
+preferred-citation:
+  type: article
+  title: "Towards a Multidimensional Exploration of Functional Neurological Disorder"
+  authors:
+    - family-names: Monteiro
+      given-names: Sara
+    - family-names: Maillard
+      given-names: Angéline
+    - family-names: Louis
+      given-names: Evelaine
+    - family-names: Hentzen
+      given-names: Claire
+    - family-names: Al Chare
+      given-names: Inas
+    - family-names: Baltasis
+      given-names: Sophie
+    - family-names: Teng
+      given-names: Maelys
+    - family-names: Adrien
+      given-names: Vladimir
+    - family-names: Garcin
+      given-names: Béatrice
+  journal: Neurology
+  year: 2026
+  status: submitted
+  notes: "Manuscript submitted to Neurology."
